@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"D","l":"Aircraft"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"B","l":"CityBus"},{"p":"<Unnamed>","l":"Driver"},{"p":"C","l":"Ferry"},{"p":"B","l":"Metro"},{"p":"A","l":"PublicTransportation"},{"p":"B","l":"Tram"},{"p":"D","l":"Aircraft.TypeOfClass"},{"p":"D","l":"Aircraft.TypeOfMaintenance"}]
